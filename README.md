@@ -1,8 +1,12 @@
 - 👋 Hi, I’m @ozqs
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in OI
+- 🌱 I’m currently learning OI
+- 💞️ I’m looking to collaborate on Free Software
+- 📫 How to reach me [:airplane: telegram](t.me/tozqs)
+
+#### I am ozqs the oier!
+
+Happy to see you!
 
 <!---
 ozqs/ozqs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

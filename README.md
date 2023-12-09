@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ozqs
-- 👀 I’m interested in OI
-- 🌱 I’m currently learning OI
+- 👀 I’m interested in Software Developing
+- 🌱 I’m currently learning Software Developing
 - 💞️ I’m looking to collaborate on Free Software
-- 📫 How to reach me [:airplane: telegram](t.me/tozqs)
+- 📫 How to reach me [:airplane: telegram](https://t.me/tozqs)
 
 #### I am ozqs the oier!
 
